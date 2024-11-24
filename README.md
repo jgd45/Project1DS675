@@ -1,6 +1,10 @@
-#To implement Machine learning Models on Existing data set and new data set 
+To implement Machine learning Models on Existing data set and new data set 
+
+
 Can compare the different machine learning Models
+
 Main Hypothesis:
+
 #1. To predict the RUL as a combination of features such as Charging time , Minimum 
 voltage Charge(v), Maximum Voltage Discharge(v) from the above data set.  - - 
 #2. Can estimate the relationship of RUL to Charging time, Minimum voltage Charge(v), 
